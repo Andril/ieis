@@ -1,5 +1,9 @@
 /venv/
 /build/
+/static/CACHE/
+/static_apps/
+
+*.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
