@@ -1,4 +1,4 @@
-#Сайт института ЭиИБ - СНУЯЭиП
+#Сайт института  Э и ИБ  -  СНУЯЭ и П
 
 <img src="https://travis-ci.org/Samael500/ieis.svg" data-bindattr-78="78" title="Build Status Images">
 
