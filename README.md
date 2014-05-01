@@ -5,7 +5,7 @@
 Web site of the Institute of  Environmental and Information Security,<br>
 Sevastopol University of Nuclear Energy and Industry.
 
-##Зависимости
+###Зависимости
 
 * python-pip
 * python-virtualenv
@@ -15,6 +15,6 @@ Sevastopol University of Nuclear Energy and Industry.
 apt-get install <зависимость>
 ```
 
-##Запуск виртуального окружения
+###Запуск виртуального окружения
 
 http://adw0rd.com/2012/6/19/python-virtualenv/#.U2IQclRJW2g
