@@ -18,3 +18,10 @@ apt-get install <зависимость>
 ###Запуск виртуального окружения
 
 http://adw0rd.com/2012/6/19/python-virtualenv/#.U2IQclRJW2g
+
+###Установка и запуск проекта
+
+```bash
+make pipinstall  # установка зависимостей
+make runserver   # запуск dev сервера
+```
