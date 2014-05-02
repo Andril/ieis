@@ -1,6 +1,6 @@
 #Сайт института  Э и ИБ  -  СНУЯЭ и П
 
-<img src="https://travis-ci.org/Samael500/ieis.svg" data-bindattr-78="78" title="Build Status Images">
+<a href="https://travis-ci.org/Samael500/ieis"><img src="https://travis-ci.org/Samael500/ieis.svg" data-bindattr-78="78" title="Build Status Images"></a>
 
 Web site of the Institute of  Environmental and Information Security,<br>
 Sevastopol University of Nuclear Energy and Industry.
@@ -12,16 +12,29 @@ Sevastopol University of Nuclear Energy and Industry.
 * git
 
 ```bash
-apt-get install <зависимость>
+$ apt-get install <зависимость>
 ```
 
-###Запуск виртуального окружения
+###Виртуальное окружение
 
-http://adw0rd.com/2012/6/19/python-virtualenv/#.U2IQclRJW2g
+######Установка
+```bash
+# 1. перейти в каталог проекта
+$ cd ~/snunei/ieis
+# 2. создать директорию виртуального окружения
+$ mkdir venv
+# 3. создать виртуальное окружение
+$ virtualenv --no-site-packages --prompt="(ieis)" venv
+```
+######Работа
+```bash
+$ . venv/bin/activate  # запуск
+$ deactivate           # остановка
+```
 
 ###Установка и запуск проекта
 
 ```bash
-make pipinstall  # установка зависимостей
-make runserver   # запуск dev сервера
+$ make pipinstall  # установка зависимостей
+$ make runserver   # запуск dev сервера
 ```
