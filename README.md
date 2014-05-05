@@ -1,6 +1,6 @@
 #Сайт института  Э и ИБ  -  СНУЯЭ и П
 
-<a href="https://travis-ci.org/Samael500/ieis"><img src="https://travis-ci.org/Samael500/ieis.svg" data-bindattr-78="78" title="Build Status Images"></a>
+[![Build Status Images](https://travis-ci.org/Samael500/ieis.svg)](https://travis-ci.org/Samael500/ieis) [![Coverage Status](https://coveralls.io/repos/Samael500/ieis/badge.png)](https://coveralls.io/r/Samael500/ieis)
 
 Web site of the Institute of  Environmental and Information Security,<br>
 Sevastopol University of Nuclear Energy and Industry.
