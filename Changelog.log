@@ -1,0 +1,69 @@
+Commits
+## Merge branch 'master' of github.com:Samael500/ieis
+## test: coverall
+## Update README.md
+## test: coverall
+## test: coverall:
+## test: add coverall
+## style: remove git achivements
+## New achievement Apprentice Socialite (Level 2)
+## New achievement Apprentice Author (Level 1)
+## test: add coverall
+## New achievement Apprentice Socialite (Level 1)
+## Delete .coveralls.yml
+## test: coverall
+## test: add coveralls
+## Update README.md
+## Update README.md
+## Update Makefile
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Update README.md
+## Merge pull request
+## from Samael500/frontpage
+## fix: ci fix test
+## fix: ci script fix
+## fix: ci script fix
+## feature: ci test
+## Update README.md
+## style: pep8 pyflakes
+
+Files
+* ieis
+* fix: ci fix test
+* on Apr 18
+* static
+* feature: update frontpage
+* on Apr 18
+* templates
+* fix: compress apps
+* on Apr 18
+* .coverage
+* test: coverall
+* on May 6
+* .gitignore
+* test: add coverall
+* on May 6
+* .travis.yml
+* test: coverall
+* on May 6
+* Makefile
+* test: coverall
+* on May 6
+* README.md
+* Update README.md
+* on May 6
+* manage.py
+* feature: startproject
+* on Apr 15
+* requirements.txt
+* test: coverall
+* on May 6
